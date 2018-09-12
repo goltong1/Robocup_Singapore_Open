@@ -1,0 +1,55 @@
+newmtl polySurface034SG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 1.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface045SG
+illum 4
+Kd 0.68 0.36 0.36
+Ka 0.76 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl polySurface056SG
+illum 4
+Kd 0.00 1.00 0.00
+Ka 0.00 1.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface067SG
+illum 4
+Kd 0.00 0.18 0.00
+Ka 0.00 0.18 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface1SG
+illum 4
+Kd 0.13 1.00 0.13
+Ka 0.49 1.00 0.49
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface2SG
+illum 4
+Kd 0.26 0.00 0.00
+Ka 0.26 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl polySurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

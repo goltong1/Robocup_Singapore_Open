@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MRDS_Dir>C:\</MRDS_Dir>
+  <menifest>CS\System\CS_Rescue_2015.manifest.xml</menifest>
+  <Decription>CsBot Rescue 2015</Decription>
+  <LogFileName>\Bin\Rescue\Install.dat</LogFileName>
+  <UninStallFileName>\Bin\Rescue\Uninstall.exe</UninStallFileName>
+  <StartMenuDirectory>CsBot Simulator</StartMenuDirectory>
+  <InstallLinkName>\CsBot Rescue 2015.lnk</InstallLinkName>
+  <UnInstallLinkName>\Uninstall CsBot Rescue 2015.lnk</UnInstallLinkName>
+  <IconFile>\CS\System\Rescue.ico</IconFile>
+</InstallInfo>
